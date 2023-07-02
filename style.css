@@ -1,0 +1,59 @@
+
+h1{
+	color:green;
+	text-align: CENTER;
+	font size:45px;
+}
+body{
+	background-color: #BCF8E9;
+	margin: AUTO;
+	width: 100%;
+
+}
+P{
+	margin-top: 50PX;
+	font-size: 30px;
+}
+h2{
+	color: green;
+	font-size:30px;
+
+}
+
+.center{
+	display: block ;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+.subb{
+	text-align: center;
+margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+
+}
+
+.f1{
+	padding: 40px;
+}
+.f1 input{
+	padding: 4px;
+	
+	}
+
+.f1 input[type="submit"]{
+	background-color: limegreen;
+	color: white;
+	padding: 10px;
+}
+.c8{
+
+color: #808080;
+}
+
+
+.c5{
+	
+
+}
